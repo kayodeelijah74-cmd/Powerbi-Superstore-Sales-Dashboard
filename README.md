@@ -1,6 +1,4 @@
-# Powerbi-Superstore-Sales-Dashboard
-
-## Superstore Sales Dashboard (Power BI)
+# Superstore Sales Dashboard (Power BI)
 
 ## Project Overview
 This project presents an interactive sales dashboard built using Power BI. 
