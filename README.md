@@ -26,7 +26,7 @@ Superstore Sales Dataset
 - Interactive slicers for filtering
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](SuperstoreOrders.png)
 
 ## Key Insights
 - Technology category generated the highest revenue.
